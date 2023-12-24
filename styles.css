@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Code Pro', monospace;
+}
+   
+body{
+    background: linear-gradient(117deg, #09111B 12.6%, #002133 53.64%);
+    width: 100px;
+    height: 100px;
+    margin: 5%;
+}
+section{
+    display:flex;
+    gap:300px;
+    margin-left: 70px;
+}
+
+.left-section{
+    margin-top: 110px;
+    font-size: 40px;
+    margin-left: 5px;
+    color: white;
+    
+}
+h1{
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 600;
+}
+h5{
+    font-size: 20px;
+    font-style:normal;
+}
+p{
+  font-family: Source Code Pro;;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 26px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color:white;
+  margin-top: 28px;
+  width: 500px;
+  overflow-wrap: break-word;  
+  word-wrap: break-word; 
+  word-break: break-word;
+}
+
+.image1{
+    width: 546px;
+    height: 523px;
+    margin-top: 15%;
+}
+
+.nav-button-btn{
+ padding: 10px;
+ width: 120px;
+ border-color: white;
+ color: white;
+ background:linear-gradient(117deg, #09111B 12.6%, #002133 53.64%) ;
+}
